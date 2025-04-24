@@ -2,7 +2,7 @@
 
 ### DATE: 
 
-## AIM: 
+## AIM: 24.04.2025
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
 ## REQUIREMENTS:
@@ -32,11 +32,12 @@
 
 ## Input:
 
-### Output:
+### Output:212224240082
+![Screenshot 2025-04-24 160002](https://github.com/user-attachments/assets/f46b3d5c-4496-43d6-8056-c63302be5798)
 
 
-### Name:
-### Register Number:
+### Name:Madhumitha R
+### Register Number:212224240082
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
