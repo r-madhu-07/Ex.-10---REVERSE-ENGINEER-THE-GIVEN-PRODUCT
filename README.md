@@ -32,7 +32,7 @@
 
 ## Input:
 
-### Output:212224240082
+### Output:
 ![Screenshot 2025-04-24 160002](https://github.com/user-attachments/assets/f46b3d5c-4496-43d6-8056-c63302be5798)
 
 
